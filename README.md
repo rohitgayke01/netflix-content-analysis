@@ -1,3 +1,4 @@
+
 # Netflix Content Analysis & Data Visualization
 
 ## 📌 Project Overview
@@ -64,6 +65,25 @@ Compared the release trends of Movies and TV Shows over the years.
 - PNG files — Data visualizations
 
 ## 🚀 How to Run
+## 📊 Visualizations
+
+### 1. Movies vs TV Shows
+![Movies vs TV Shows](movies_vs_tvshows.png)
+
+### 2. Content Ratings
+![Content Ratings](Content_Ratings_pie.png)
+
+### 3. Movie Duration Distribution
+![Movie Duration](movie_duration_histogram.png)
+
+### 4. Release Year Trend
+![Release Year Trend](release_year_Scatter.png)
+
+### 5. Top 10 Countries
+![Top 10 Countries](top10_countries.png)
+
+### 6. Movies vs TV Shows Comparison
+![Movies vs TV Shows Comparison](Movies_tv_show_comparison.png)
 
 ```bash
 pip install pandas numpy matplotlib seaborn jupyter
