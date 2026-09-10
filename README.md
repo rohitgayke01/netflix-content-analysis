@@ -74,14 +74,13 @@ Compared the release trends of Movies and TV Shows over the years.
 ![Content Ratings](Content_Ratings_pie.png)
 
 ### 3. Movie Duration Distribution
-![Movie Duration](movie_duration_histogram.png)
+![Movie Duration](https://raw.githubusercontent.com/rohitgayke01/netflix-content-analysis/main/movie_duration_histogram.png)
 
 ### 4. Release Year Trend
 ![Release Year Trend](release_year_Scatter.png)
 
 ### 5. Top 10 Countries
-![Top 10 Countries](top10_countries.png)
-
+![Top 10 Countries](https://raw.githubusercontent.com/rohitgayke01/netflix-content-analysis/main/top10_countries.png)
 ### 6. Movies vs TV Shows Comparison
 ![Movies vs TV Shows Comparison](Movies_tv_show_comparison.png)
 
