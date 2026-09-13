@@ -107,7 +107,7 @@ Make sure `Netflix_titles.csv` is in the same folder as the notebook.
 
 ### 3. Movie Duration Distribution
 
-![Movie Duration](https://raw.githubusercontent.com/rohitgayke01/netflix-content-analysis/main/movie_duration_histogram.png)
+![Movie Duration](./movie_duration_histogram_v2.png)
 
 ### 4. Release Year Trend
 
@@ -115,7 +115,7 @@ Make sure `Netflix_titles.csv` is in the same folder as the notebook.
 
 ### 5. Top 10 Countries
 
-![Top 10 Countries](https://raw.githubusercontent.com/rohitgayke01/netflix-content-analysis/main/top10_countries.png)
+![Top 10 Countries](./top10_countries_v2.png)
 
 ### 6. Movies vs TV Shows Comparison
 
